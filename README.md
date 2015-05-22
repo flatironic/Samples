@@ -5,7 +5,7 @@ Here is a little info on each one:
 
 1. page - html for the search page includes a handlebars template - uses bootstrap.
 
-2. javascript - the search uses a module design and the js manages the form display, api calls and renders the results using the handlebars template, the search takes advantage of a 3rd party geolocation ip api that will lookup location based on the user's ip address and do a event query based on zipcode radius. If the ip address fails, then the initial search will default to a date ordered search.
+2. javascript - the search uses a module design and the js manages the form display, api calls and renders the results using the handlebars template, the search takes advantage of a 3rd party geolocation ip api that will lookup location based on the user's ip address and do an event query based on zipcode radius. If the ip address fails, then the initial search will default to a date ordered search.
 
 3. api - restful, will send back json - other sites use this api with jsonp, mostly for rosters and such.
 
