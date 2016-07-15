@@ -1,7 +1,7 @@
 # Samples
 Code Examples - Included are samples for event searching. These are merely samples that are meant demonstrate coding style and approach.
 
-Here is a little info on each one:
+Some info on each one:
 
 ##event-search
 
